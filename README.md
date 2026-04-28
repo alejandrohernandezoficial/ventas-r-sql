@@ -41,7 +41,7 @@
 ⚙️ Instalación y uso
   1. Clonar el repositorio
   Bash
-  git clone https://github.com/tu-usuario/ventas-r-sql.git
+  git clone https://github.com/alejandrohernandezoficial/ventas-r-sql.git
   cd ventas-r-sql
   2. Crear la base de datos
   Ejecuta el script SQL:
